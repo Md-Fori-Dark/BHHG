@@ -17,7 +17,7 @@ pip install requests
 pip install bs4
 
 
-rm -rf BHH
+rm -rf BHHG
 
 git clone https://github.com/Md-ForDark/BHHG
 
